@@ -2,271 +2,272 @@
 My Programming Project Banking System Project in CPP using class (public and private)  + File Operator Concepts + Functions + Switch Cases.
 
 
-Banking System Output
-*****SRP Banking System*****
+	Banking System Output
+	*****SRP Banking System*****
 
-Select one option below
+	Select one option below
 
-	(1) Open an Account
-	(2) Deposit
-	(3) Withdrawal
-	(4) Balance Enquiry
-	(5) Close an Account
-	(6) Show All Accounts
-	(7) Quit
+		(1) Open an Account
+		(2) Deposit
+		(3) Withdrawal
+		(4) Balance Enquiry
+		(5) Close an Account
+		(6) Show All Accounts
+		(7) Quit
 
-Enter Your Choice : 1
-Enter First Name : Smit
-Enter Last Name : PATEL
-Enter initil Balance : 25000
+	Enter Your Choice : 1
+	Enter First Name : Smit
+	Enter Last Name : PATEL
+	Enter initil Balance : 25000
 
-Congratulation! Account is Created :) 
+	Congratulation! Account is Created :) 
 
-Account Details
-First Name : Smit
-Last Name : PATEL
-Account Number : 1
-Balance : 25000
+	Account Details
+	First Name : Smit
+	Last Name : PATEL
+	Account Number : 1
+	Balance : 25000
 
-Select one option below
+	Select one option below
 
-	(1) Open an Account
-	(2) Deposit
-	(3) Withdrawal
-	(4) Balance Enquiry
-	(5) Close an Account
-	(6) Show All Accounts
-	(7) Quit
+		(1) Open an Account
+		(2) Deposit
+		(3) Withdrawal
+		(4) Balance Enquiry
+		(5) Close an Account
+		(6) Show All Accounts
+		(7) Quit
 
-Enter Your Choice : 1
-Enter First Name : Kelly
-Enter Last Name : AQUA
-Enter initil Balance : 50000
+	Enter Your Choice : 1
+	Enter First Name : Kelly
+	Enter Last Name : AQUA
+	Enter initil Balance : 50000
+	
+	Congratulation! Account is Created :) 
+	
+	Account Details
+	First Name : Kelly
+	Last Name : AQUA
+	Account Number : 2
+	Balance : 50000
+	
+	Select one option below
 
-Congratulation! Account is Created :) 
+		(1) Open an Account
+		(2) Deposit
+		(3) Withdrawal
+		(4) Balance Enquiry
+		(5) Close an Account
+		(6) Show All Accounts
+		(7) Quit
 
-Account Details
-First Name : Kelly
-Last Name : AQUA
-Account Number : 2
-Balance : 50000
+	Enter Your Choice : 2
+	Enter Account Number : 1
+	Enter Balance : 5000
 
-Select one option below
+	5000 Amount is Deposited :) 
 
-	(1) Open an Account
-	(2) Deposit
-	(3) Withdrawal
-	(4) Balance Enquiry
-	(5) Close an Account
-	(6) Show All Accounts
-	(7) Quit
+	Your Account Details
+	First Name : Smit
+	Last Name : PATEL
+	Account Number : 1
+	Balance : 30000
 
-Enter Your Choice : 2
-Enter Account Number : 1
-Enter Balance : 5000
+	Select one option below
 
-5000 Amount is Deposited :) 
+		(1) Open an Account
+		(2) Deposit
+		(3) Withdrawal
+		(4) Balance Enquiry
+		(5) Close an Account
+		(6) Show All Accounts
+		(7) Quit
 
-Your Account Details
-First Name : Smit
-Last Name : PATEL
-Account Number : 1
-Balance : 30000
+	Enter Your Choice : 2
+	Enter Account Number : 2
+	Enter Balance : 500
 
-Select one option below
+	500 Amount is Deposited :) 
 
-	(1) Open an Account
-	(2) Deposit
-	(3) Withdrawal
-	(4) Balance Enquiry
-	(5) Close an Account
-	(6) Show All Accounts
-	(7) Quit
+	Your Account Details
+	First Name : Kelly
+	Last Name : AQUA
+	Account Number : 2
+	Balance : 50500
 
-Enter Your Choice : 2
-Enter Account Number : 2
-Enter Balance : 500
+	Select one option below
 
-500 Amount is Deposited :) 
+		(1) Open an Account
+		(2) Deposit
+		(3) Withdrawal
+		(4) Balance Enquiry
+		(5) Close an Account
+		(6) Show All Accounts
+		(7) Quit
 
-Your Account Details
-First Name : Kelly
-Last Name : AQUA
-Account Number : 2
-Balance : 50500
+	Enter Your Choice : 3
+	Enter Account Number : 1
+	Enter Balance : 500
 
-Select one option below
+	500 Amount Withdrawn :) 
 
-	(1) Open an Account
-	(2) Deposit
-	(3) Withdrawal
-	(4) Balance Enquiry
-	(5) Close an Account
-	(6) Show All Accounts
-	(7) Quit
+	Your Account Details
+	First Name : Smit
+	Last Name : PATEL
+	Account Number : 1
+	Balance : 29500
 
-Enter Your Choice : 3
-Enter Account Number : 1
-Enter Balance : 500
+	Select one option below
 
-500 Amount Withdrawn :) 
+		(1) Open an Account
+		(2) Deposit
+		(3) Withdrawal
+		(4) Balance Enquiry
+		(5) Close an Account
+		(6) Show All Accounts
+		(7) Quit
 
-Your Account Details
-First Name : Smit
-Last Name : PATEL
-Account Number : 1
-Balance : 29500
+	Enter Your Choice : 3
+	Enter Account Number : 2
+	Enter Balance : 100
 
-Select one option below
+	100 Amount Withdrawn :) 
 
-	(1) Open an Account
-	(2) Deposit
-	(3) Withdrawal
-	(4) Balance Enquiry
-	(5) Close an Account
-	(6) Show All Accounts
-	(7) Quit
+	Your Account Details
+	First Name : Kelly
+	Last Name : AQUA
+	Account Number : 2
+	Balance : 50400
 
-Enter Your Choice : 3
-Enter Account Number : 2
-Enter Balance : 100
+	Select one option below
 
-100 Amount Withdrawn :) 
+		(1) Open an Account
+		(2) Deposit
+		(3) Withdrawal
+		(4) Balance Enquiry
+		(5) Close an Account
+		(6) Show All Accounts
+		(7) Quit
 
-Your Account Details
-First Name : Kelly
-Last Name : AQUA
-Account Number : 2
-Balance : 50400
+	Enter Your Choice : 1
+	Enter First Name : Roman
+	Enter Last Name : REIGNS
+	Enter initil Balance : 40000
 
-Select one option below
+	Congratulation! Account is Created :) 
 
-	(1) Open an Account
-	(2) Deposit
-	(3) Withdrawal
-	(4) Balance Enquiry
-	(5) Close an Account
-	(6) Show All Accounts
-	(7) Quit
+	Account Details
+	First Name : Roman
+	Last Name : REIGNS
+	Account Number : 3
+	Balance : 40000
 
-Enter Your Choice : 1
-Enter First Name : Roman
-Enter Last Name : REIGNS
-Enter initil Balance : 40000
+	Select one option below
 
-Congratulation! Account is Created :) 
+		(1) Open an Account
+		(2) Deposit
+		(3) Withdrawal
+		(4) Balance Enquiry
+		(5) Close an Account
+		(6) Show All Accounts
+		(7) Quit
 
-Account Details
-First Name : Roman
-Last Name : REIGNS
-Account Number : 3
-Balance : 40000
+	Enter Your Choice : 6
 
-Select one option below
+	Account Details
 
-	(1) Open an Account
-	(2) Deposit
-	(3) Withdrawal
-	(4) Balance Enquiry
-	(5) Close an Account
-	(6) Show All Accounts
-	(7) Quit
+	Record 1
+	Record First Name : Smit
+	Last Name : PATEL
+	Account Number : 1
+	Balance : 29500
 
-Enter Your Choice : 6
+	Record 2
+	Record First Name : Kelly
+	Last Name : AQUA
+	Account Number : 2
+	Balance : 50400
 
-Account Details
-
-Record 1
-Record First Name : Smit
-Last Name : PATEL
-Account Number : 1
-Balance : 29500
-
-Record 2
-Record First Name : Kelly
-Last Name : AQUA
-Account Number : 2
-Balance : 50400
-
-Record 3
-Record First Name : Roman
-Last Name : REIGNS
-Account Number : 3
-Balance : 40000
-
-
-Select one option below
-
-	(1) Open an Account
-	(2) Deposit
-	(3) Withdrawal
-	(4) Balance Enquiry
-	(5) Close an Account
-	(6) Show All Accounts
-	(7) Quit
-
-Enter Your Choice : 5
-Enter Account Number : 3
-
-Account Deleted Successfully!!!
-First Name : Roman
-Last Name : REIGNS
-Account Number : 3
-Balance : 40000
-
-Account is Closed!!!
+	Record 3
+	Record First Name : Roman
+	Last Name : REIGNS
+	Account Number : 3
+	Balance : 40000
 
 
-Account Details
+	Select one option below
 
-Record 1
-Record First Name : Smit
-Last Name : PATEL
-Account Number : 1
-Balance : 29500
+		(1) Open an Account
+		(2) Deposit
+		(3) Withdrawal
+		(4) Balance Enquiry
+		(5) Close an Account
+		(6) Show All Accounts
+		(7) Quit
 
-Record 2
-Record First Name : Kelly
-Last Name : AQUA
-Account Number : 2
-Balance : 50400
+	Enter Your Choice : 5
+	Enter Account Number : 3
 
-
-Select one option below
-
-	(1) Open an Account
-	(2) Deposit
-	(3) Withdrawal
-	(4) Balance Enquiry
-	(5) Close an Account
-	(6) Show All Accounts
-	(7) Quit
-
-Enter Your Choice : 6
-
-Account Details
-
-Record 1
-Record First Name : Smit
-Last Name : PATEL
-Account Number : 1
-Balance : 29500
-
-Record 2
-Record First Name : Kelly
-Last Name : AQUA
-Account Number : 2
-Balance : 50400
+	Account Deleted Successfully!!!
+	First Name : Roman
+	Last Name : REIGNS
+	Account Number : 3
+	Balance : 40000
+	
+	Account is Closed!!!
 
 
-Select one option below
+	Account Details
 
-	(1) Open an Account
-	(2) Deposit
-	(3) Withdrawal
-	(4) Balance Enquiry
-	(5) Close an Account
-	(6) Show All Accounts
-	(7) Quit
+	Record 1
+	Record First Name : Smit
+	Last Name : PATEL
+	Account Number : 1
+	Balance : 29500
 
-Enter Your Choice : 7
+	Record 2
+	Record First Name : Kelly
+	Last Name : AQUA
+	Account Number : 2
+	Balance : 50400
+
+
+	Select one option below
+
+		(1) Open an Account
+		(2) Deposit
+		(3) Withdrawal
+		(4) Balance Enquiry
+		(5) Close an Account
+		(6) Show All Accounts
+		(7) Quit
+
+	Enter Your Choice : 6
+
+	Account Details
+
+	Record 1
+	Record First Name : Smit
+	Last Name : PATEL
+	Account Number : 1
+	Balance : 29500
+
+	Record 2
+	Record First Name : Kelly
+	Last Name : AQUA
+	
+	Account Number : 2
+	Balance : 50400
+	
+	Select one option below
+
+		(1) Open an Account
+		(2) Deposit
+		(3) Withdrawal
+		(4) Balance Enquiry
+		(5) Close an Account
+		(6) Show All Accounts
+		(7) Quit
+
+	Enter Your Choice : 7
+	
